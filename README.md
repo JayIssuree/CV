@@ -52,7 +52,7 @@ Before Makers, I studied Psychology at the University of Surrey with a placement
 | Name | Description | Technologies
 | ---- | ----------- | ------------|
 | [JackTheRipper](https://github.com/JayIssuree/Team-6-Game) | Jack the Ripper walking tour. A geolocation-based murder mystery puzzle game for iOS. Users roleplay as a detective attempting to catch the infamous serial killer, Jack the Ripper. The investigator must visit the locations of the five canonical victims (with help from apple maps) and are required to solve several different puzzle minigames to progress. Group project completed in 10 days. | Xcode, Swift |
-| [Bowling Scorecard](https://github.com/JayIssuree/bowling-challenge) | The user inputs their score per roll and their score per frame and total score is calculated and displayed, including spare and strike bonuses. | Javascript, jQuery, Jasmine, HTML, CSS | 
+| [Bookmark Manager](https://github.com/JayIssuree/bookmark_manager) | Full stack web app to bookmark your favourite websites. Create, Read, Update and Delete bookmarks as well as organise them by tags. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS | 
 | [Acebook](https://github.com/JayIssuree/acebook-short-ferret-midnight)| A social network app that allows users to sign up, log in, log out, view, like and comment on posts, edit/delete their posts and visit their own or their friend's walls. Group project completed in 10 days. Deployed on [Heroku](https://salty-peak-83707.herokuapp.com/). | Ruby on Rails, RSpec, Capybara, Active Record, HTML, CSS |
 
 <a name="Education">
