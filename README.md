@@ -91,12 +91,10 @@ Before Makers, I studied Psychology at the University of Surrey with a placement
   <h2 align="left"> Experience <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
 </a>
 
-**iCope Camden & Islington Psychological Therapies Services** (October 2016 - June 2017)     
-*Honorary Assistant Psychological Practitioner*
+**mPowr Publishing** (May 2021 - Present)     
+*Software Developer*
 
-- Analysed GP referral rates, therapist success rates and treatment success rates. Condensed into an easily read format and reported to the team.
-- Created informative materials handed to patients as part of treatment. A Sleep Diary Excel Spreadsheet that records and calculates sleep quality and efficiency.
-- Performed in-depth searches of client's entire NHS history in order to assess risk/safeguarding issues to ultimately see if they are suitable for the service.
+- Developed profiling tools
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
