@@ -94,6 +94,12 @@ Before Makers, I studied Psychology at the University of Surrey with a placement
 **mPowr Publishing** (May 2021 - Present)     
 *Software Developer*
 
+Languages Used:
+- React
+- cPanel
+- Sitelok
+- MySQL
+- PHP
 - Developed profiling tools
 
 <a name="Hobbies">
