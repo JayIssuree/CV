@@ -100,7 +100,9 @@ Languages Used:
 - Sitelok
 - MySQL
 - PHP
+
 - Developed profiling tools
+- Updated the design of old webpages
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
