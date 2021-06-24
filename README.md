@@ -103,6 +103,8 @@ Languages Used:
 
 - Developed profiling tools
 - Updated the design of old webpages
+- Being the only technical person on the team, I was responsible for researching what languages/frameworks were best suited for the tasks at hand.
+- I had to quickly learn new frameworks and singlehandedly develop the tools that also integrate with their existing stack.
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
