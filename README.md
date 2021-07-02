@@ -100,6 +100,7 @@ Languages Used:
 - Sitelok
 - MySQL
 - PHP
+- WordPress
 
 - Developed profiling tools
 - Updated the design of old webpages
