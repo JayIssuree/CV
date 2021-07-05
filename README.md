@@ -3,7 +3,7 @@
 <h1 align="center"> Jay Issuree </h1>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jay-issuree-928a1a171/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" hspace="20" height="42" width="42"></a>
+    <a href="https://www.linkedin.com/in/jay-issuree-928a1a171/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" hspace="20" height="45" width="55"></a>
     <a href="https://www.codewars.com/users/Jay_Issuree"><img src="https://www.codewars.com/users/Jay_Issuree/badges/micro" hspace="20" height="37"></a>
     <a href="https://github.com/JayIssuree"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" hspace="20" height="37" width="37"></a>
   </p>
@@ -105,7 +105,8 @@ Languages Used:
 - Developed profiling tools
 - Updated the design of old webpages
 - Being the only technical person on the team, I was responsible for researching what languages/frameworks were best suited for the tasks at hand.
-- I had to quickly learn new frameworks and singlehandedly develop the tools that also integrate with their existing stack.
+- I had to quickly learn new frameworks and singlehandedly develop the tools that also integrate with the existing stack.
+- I had to explain developer concepts and ideas to non-technical people.
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
