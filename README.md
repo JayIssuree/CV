@@ -11,10 +11,10 @@
 <div align="center">
 
 [Overview](#Overview) |
+[Experience](#Experience) |
 [Skills](#Skills) |
 [Projects](#Projects) |
 [Education](#Education) |
-[Experience](#Experience) |
 [Hobbies](#Hobbies)
 
 </div>
@@ -23,8 +23,22 @@
   <h2 align="left"> Overview <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
 </a>
 
-I am a full-stack junior developer who has recently completed a 16-week intensive software development boot camp at [Makers Academy](https://github.com/makersacademy). I am looking for a junior role at a company that will help expand and consolidate my programming knowledge.
-Before Makers, I studied Psychology at the University of Surrey with a placement year at anxiety & depression therapy services.
+I am a full-stack junior developer that started my journey at a 16-week intensive software development boot camp ([Makers Academy](https://github.com/makersacademy)). Prior to my time at Makers, I studied Psychology at the University of Surrey with a placement year at anxiety & depression therapy services where I took a particular interest in data analysis. I am looking for a junior role at a company that takes pride in following the best coding practices and the opportunity for me to improve and develop as a programmer.
+
+<a name="Experience">
+  <h2 align="left"> Experience <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
+</a>
+
+**mPowr Publishing** (May 2021 - Present)     
+*Software Developer*
+
+Being the only person with a tech background in the small company (5 people), I was responsible for reasearching what languages/frameworks were best suited for the task at hand. I had to quickly learn the new frameworks and singlehandedly develop the tools that also integrated with the existing tech stack. 
+
+Developed documentation and explained technical concepts to those with a non-technical background.
+
+Deployed web applications on cPanel. I learnt about setting up domains, subdomains, users and databases as part of the hosting service.
+Created APIs in PHP/MySQL to talk to React.
+Updated the design of webpages using Bootstrap and WordPress.
 
 <a name="Skills">
   <h2 align="left"> Skills <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
@@ -86,27 +100,6 @@ Before Makers, I studied Psychology at the University of Surrey with a placement
 - Core Points: 2
 - Duke of Edinburgh Silver Award
 - Rugby, Football, Basketball, Athletics & Cross Country
-
-<a name="Experience">
-  <h2 align="left"> Experience <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
-</a>
-
-**mPowr Publishing** (May 2021 - Present)     
-*Software Developer*
-
-Languages Used:
-- React
-- cPanel
-- Sitelok
-- MySQL
-- PHP
-- WordPress
-
-- Developed profiling tools
-- Updated the design of old webpages
-- Being the only technical person on the team, I was responsible for researching what languages/frameworks were best suited for the tasks at hand.
-- I had to quickly learn new frameworks and singlehandedly develop the tools that also integrate with the existing stack.
-- I had to explain developer concepts and ideas to non-technical people.
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
