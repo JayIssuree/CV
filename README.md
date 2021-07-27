@@ -32,13 +32,19 @@ I am a full-stack junior developer that started my journey at a 16-week intensiv
 **mPowr Publishing** (May 2021 - Present)     
 *Software Developer*
 
-Being the only person with a tech background in the small company (5 people), I was responsible for reasearching what languages/frameworks were best suited for the task at hand. I had to quickly learn the new frameworks and singlehandedly develop the tools that also integrated with the existing tech stack. 
-
-Developed documentation and explained technical concepts to those with a non-technical background.
-
-Deployed web applications on cPanel. I learnt about setting up domains, subdomains, users and databases as part of the hosting service.
+Deployed full-stack web applications on cPanel. I learnt about setting up domains, subdomains, users, databases and other intricacies of hosting services.
 Created APIs in PHP/MySQL to talk to React.
 Updated the design of webpages using Bootstrap and WordPress.
+Created documentation to explain technical concepts and how to use the applications to those with a non-technical background.
+
+Being the only person with a tech background in the small company (5 people), I was responsible for reasearching what languages/frameworks were best suited for the task at hand. I had to quickly learn the new frameworks and singlehandedly develop the tools that also integrated with the existing tech stack.
+
+I was responsible for automating psychological paradigms and questionnaires to enhance and use alongside course materials and books. With the aim of developing a personalised user experience and dashboard.
+
+Examples include:
+- Mood tracker with graphical representation over time.
+- Daily questionnaire where users answer a question over a period of time. At the end the user is presented with their 3 main habits.
+- Incorporating all of the above into a personalized, easy to use dashboard.
 
 <a name="Skills">
   <h2 align="left"> Skills <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
