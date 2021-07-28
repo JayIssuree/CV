@@ -12,9 +12,9 @@
 
 [Overview](#Overview) |
 [Experience](#Experience) |
+[Education](#Education) |
 [Skills](#Skills) |
 [Projects](#Projects) |
-[Education](#Education) |
 [Hobbies](#Hobbies)
 
 </div>
@@ -23,7 +23,8 @@
   <h2 align="left"> Overview <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
 </a>
 
-I am a full-stack junior developer that started my journey at a 16-week intensive software development boot camp ([Makers Academy](https://github.com/makersacademy)). Prior to my time at Makers, I studied Psychology at the University of Surrey with a placement year at anxiety & depression therapy services where I took a particular interest in data analysis. I am looking for a junior role at a company that takes pride in following the best coding practices and the opportunity for me to improve and develop as a programmer.
+I am a full-stack junior developer that started my journey at a 16-week intensive software development boot camp ([Makers Academy](https://github.com/makersacademy)). Prior to my time at Makers, I studied Psychology at the University of Surrey with a placement year at anxiety & depression therapy services where I took a particular interest in data analysis.  
+I am looking for a junior role at a company that takes pride in following the best coding practices and the opportunity to improve and develop as a programmer.
 
 <a name="Experience">
   <h2 align="left"> Experience <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
@@ -32,48 +33,20 @@ I am a full-stack junior developer that started my journey at a 16-week intensiv
 **mPowr Publishing** (May 2021 - Present)     
 *Software Developer*
 
-Deployed full-stack web applications on cPanel. I learnt about setting up domains, subdomains, users, databases and other intricacies of hosting services.
-Created APIs in PHP/MySQL to talk to React.
-Updated the design of webpages using Bootstrap and WordPress.
-Created documentation to explain technical concepts and how to use the applications to those with a non-technical background.
+Automated psychological paradigms and questionnaires to enhance and use alongside course materials and books.
+Incorporated user responses to create personalized dashboard and experience.  
+Created documentation and liaised with less technical team members to explain concepts and understand/translate requirements.  
+Deployed web applications on cPanel.  
+Set up domains, subdomains, plug-ins, users, databases and other intricacies of web hosting services.  
+Created APIs in PHP/MySQL to interact with React applications.  
+Updated the design of webpages using Bootstrap and WordPress.  
 
-Being the only person with a tech background in the small company (5 people), I was responsible for reasearching what languages/frameworks were best suited for the task at hand. I had to quickly learn the new frameworks and singlehandedly develop the tools that also integrated with the existing tech stack.
-
-I was responsible for automating psychological paradigms and questionnaires to enhance and use alongside course materials and books. With the aim of developing a personalised user experience and dashboard.
-
-Examples include:
-- Mood tracker with graphical representation over time.
-- Daily questionnaire where users answer a question over a period of time. At the end the user is presented with their 3 main habits.
-- Incorporating all of the above into a personalized, easy to use dashboard.
-
-<a name="Skills">
-  <h2 align="left"> Skills <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
-</a>
-
-**Team Player & Communicator**
-
-- At Makers, I was part of several group projects where I had the opportunity to develop Agile/Scrum & XP values. I also had the pleasure of pair programming with someone new every day, which gave me the chance to learn how to cooperate and adapt to the individual pairing styles of my partners.
-- I enjoy and regularly partake in team sports, managing and captaining a small football team in a competitive 6-a-side league. I was able to demonstrate leadership, communication and encouragement and resilience when facing challenging opponents.
-
-**Fast Learner**
-
-- Able to pick up new languages/frameworks quickly alongside continuously integrating code as part of a team. For my final project, I learnt to use Swift to develop a functioning iOS application that was ready to present within 10 days.
-- In my spare time, I challenge myself to learn new skills in music such as playing the guitar and DJing.
-
-**Data-Driven**
-
-- At iCope, I was able to quickly learn how to operate the NHS systems and Databases which allowed me to analyse GP referral rates and therapist/treatment success rates. I reported these findings to the team which then allowed for an informed decision on whether to purchase certain treatment licences.
-- Average of 70% in Statistics and Data Analysis university modules and 68% in my Dissertation. 
-
-<a name="Projects">
-  <h2 align="left"> Projects <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
-</a>
-
-| Name | Description | Technologies
-| ---- | ----------- | ------------|
-| [JackTheRipper](https://github.com/JayIssuree/Team-6-Game) | Jack the Ripper walking tour. A geolocation-based murder mystery puzzle game for iOS. Users roleplay as a detective attempting to catch the infamous serial killer, Jack the Ripper. The investigator must visit the locations of the five canonical victims (with help from apple maps) and are required to solve several different puzzle minigames to progress. Group project completed in 10 days. | Xcode, Swift |
-| [Bookmark Manager](https://github.com/JayIssuree/bookmark_manager) | Full stack web app to bookmark your favourite websites. Create, Read, Update and Delete bookmarks as well as organise them by tags. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS | 
-| [Acebook](https://github.com/JayIssuree/acebook-short-ferret-midnight)| A social network app that allows users to sign up, log in, log out, view, like and comment on posts, edit/delete their posts and visit their own or their friend's walls. Group project completed in 10 days. Deployed on [Heroku](https://salty-peak-83707.herokuapp.com/). | Ruby on Rails, RSpec, Capybara, Active Record, HTML, CSS |
+- React
+- PHP
+- Node & Express
+- MySQL
+- cPanel
+- HTML, CSS, WordPress, Bootstrap
 
 <a name="Education">
   <h2 align="left"> Education <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
@@ -106,6 +79,38 @@ Examples include:
 - Core Points: 2
 - Duke of Edinburgh Silver Award
 - Rugby, Football, Basketball, Athletics & Cross Country
+
+<a name="Skills">
+  <h2 align="left"> Skills <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
+</a>
+
+**Team Player & Communicator**
+
+- Being the only one with a technical background at mPowr I was able to develop my skills in writing documentation, recording processes and discussing concepts/ideas with the members of the team with less technical backgrounds. I was able to get clarification on vague requirements and break them down into managable user stories. I regularly presented the progress of the developing applications to the team in stand-ups and retros.
+- At Makers, I was part of several group projects where I had the opportunity to develop Agile/Scrum & XP values. I also had the pleasure of pair programming with someone new every day, which gave me the chance to learn how to cooperate and adapt to the individual pairing styles of my partners.
+- I enjoy and regularly partake in team sports, managing and captaining a small football team in a competitive 6-a-side league. I was able to demonstrate leadership, communication and encouragement and resilience when facing challenging opponents.
+
+**Fast & Independent Learner**
+
+- At mPowr I had the opportunity to develop my skills as an independent learner, having to continously rely on online resources and documentation to quickly learn new technologies and implement features as part of the existing tech stack. I had to thoroughly research the best coding practices and reflect on my own processes to ensure that I was improving as a programmer. Within the first 2 weeks of starting I picked up React, Express, cPanel, PHP and MySQL and was able to present an application that demonstrated the foundations for future projects. 
+- Able to pick up new languages/frameworks quickly alongside continuously integrating code as part of a team. For my final project, I learnt to use Swift to develop a functioning iOS application that was ready to present within 10 days.
+- In my spare time, I like to challenge myself to learn new skills in music such as playing the guitar and DJing.
+
+**Data-Driven**
+
+- Translating psychological paradigms from books and course materials at mPowr was an opportunity to develop skills in planning database schema and mapping relationships. I developed a mood tracker for users that included graphical components. A questionnaire that is completed over a period of time that incorporates a scoring system. At the end the user is presented with their traits and habits.
+- At iCope, I was able to quickly learn how to operate the NHS systems and Databases which allowed me to analyse GP referral rates and therapist/treatment success rates. I reported these findings to the team which then allowed for an informed decision on whether to purchase certain treatment licences.
+- Average of 70% in Statistics and Data Analysis university modules and 68% in my Dissertation. 
+
+<a name="Projects">
+  <h2 align="left"> Projects <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
+</a>
+
+| Name | Description | Technologies
+| ---- | ----------- | ------------|
+| [JackTheRipper](https://github.com/JayIssuree/Team-6-Game) | Jack the Ripper walking tour. A geolocation-based murder mystery puzzle game for iOS. Users roleplay as a detective attempting to catch the infamous serial killer, Jack the Ripper. The investigator must visit the locations of the five canonical victims (with help from apple maps) and are required to solve several different puzzle minigames to progress. Group project completed in 10 days. | Xcode, Swift |
+| [Bookmark Manager](https://github.com/JayIssuree/bookmark_manager) | Full stack web app to bookmark your favourite websites. Create, Read, Update and Delete bookmarks as well as organise them by tags. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS | 
+| [Acebook](https://github.com/JayIssuree/acebook-short-ferret-midnight)| A social network app that allows users to sign up, log in, log out, view, like and comment on posts, edit/delete their posts and visit their own or their friend's walls. Group project completed in 10 days. Deployed on [Heroku](https://salty-peak-83707.herokuapp.com/). | Ruby on Rails, RSpec, Capybara, Active Record, HTML, CSS |
 
 <a name="Hobbies">
   <h2 align="left"> Hobbies <a href="#top"><img src="https://miro.medium.com/max/704/1*1Ton78FSdk68hl531ohL7w.png" height="20" width="20"></a></h2>
