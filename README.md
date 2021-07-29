@@ -34,7 +34,7 @@ I am looking for a junior role at a company that takes pride in following the be
 *Software Developer*
 
 Automated psychological paradigms and questionnaires to enhance and use alongside course materials and books.
-Incorporated user responses to create personalized dashboard and experience.  
+Incorporated user responses to create a personalized dashboard and experience.  
 Created documentation and liaised with less technical team members to explain concepts and understand/translate requirements.  
 Deployed web applications on cPanel.  
 Set up domains, subdomains, plug-ins, users, databases and other intricacies of web hosting services.  
