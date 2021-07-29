@@ -86,19 +86,19 @@ Updated the design of webpages using Bootstrap and WordPress.
 
 **Team Player & Communicator**
 
-- Being the only one with a technical background at mPowr I was able to develop my skills in writing documentation, recording processes and discussing concepts/ideas with the members of the team with less technical backgrounds. I was able to get clarification on vague requirements and break them down into managable user stories. I regularly presented the progress of the developing applications to the team in stand-ups and retros.
+- Being the only one with a technical background at mPowr I was able to develop my skills in writing documentation, recording processes and discussing concepts/ideas with the members of the team with less technical backgrounds. I was able to get clarification on vague requirements and break them down into manageable user stories. I regularly presented the progress of the developing applications to the team in stand-ups and retros.
 - At Makers, I was part of several group projects where I had the opportunity to develop Agile/Scrum & XP values. I also had the pleasure of pair programming with someone new every day, which gave me the chance to learn how to cooperate and adapt to the individual pairing styles of my partners.
 - I enjoy and regularly partake in team sports, managing and captaining a small football team in a competitive 6-a-side league. I was able to demonstrate leadership, communication and encouragement and resilience when facing challenging opponents.
 
 **Fast & Independent Learner**
 
-- At mPowr I had the opportunity to develop my skills as an independent learner, having to continously rely on online resources and documentation to quickly learn new technologies and implement features as part of the existing tech stack. I had to thoroughly research the best coding practices and reflect on my own processes to ensure that I was improving as a programmer. Within the first 2 weeks of starting I picked up React, Express, cPanel, PHP and MySQL and was able to present an application that demonstrated the foundations for future projects. 
+- At mPowr I had the opportunity to develop my skills as an independent learner, having to continuously rely on online resources and documentation to quickly learn new technologies and implement features as part of the existing tech stack. I had to thoroughly research the best coding practices and reflect on my own processes to ensure that I was improving as a programmer. Within the first 2 weeks of starting, I picked up React, Express, cPanel, PHP and MySQL and was able to present an application that demonstrated the foundations for future projects. 
 - Able to pick up new languages/frameworks quickly alongside continuously integrating code as part of a team. For my final project, I learnt to use Swift to develop a functioning iOS application that was ready to present within 10 days.
 - In my spare time, I like to challenge myself to learn new skills in music such as playing the guitar and DJing.
 
 **Data-Driven**
 
-- Translating psychological paradigms from books and course materials at mPowr was an opportunity to develop skills in planning database schema and mapping relationships. I developed a mood tracker for users that included graphical components. A questionnaire that is completed over a period of time that incorporates a scoring system. At the end the user is presented with their traits and habits.
+- Translating psychological paradigms from books and course materials at mPowr was an opportunity to develop skills in planning database schema and mapping relationships. I developed a mood tracker for users that included graphical components. A questionnaire that is completed over a period of time and incorporates a scoring system. At the end, the user is presented with their traits and habits.
 - At iCope, I was able to quickly learn how to operate the NHS systems and Databases which allowed me to analyse GP referral rates and therapist/treatment success rates. I reported these findings to the team which then allowed for an informed decision on whether to purchase certain treatment licences.
 - Average of 70% in Statistics and Data Analysis university modules and 68% in my Dissertation. 
 
