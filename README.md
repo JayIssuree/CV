@@ -66,7 +66,7 @@ Updated the design of webpages using Bootstrap and WordPress.
 - PostgreSQL, Active Record
 
 **University of Surrey** (September 2014 - June 2018)      
-*Bachelor of Science, Psychology, Upper Second Class Honours 2:1*
+*Bachelor of Science, Psychology, Upper Second Class Honors 2:1*
 
 - BPS Accredited Psychology (4-year course with a year in industry)
 - Active member of the Psychology, Mountaineering, Football, Surf & Snow societies
