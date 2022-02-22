@@ -92,7 +92,7 @@ Updated the design of webpages using Bootstrap and WordPress.
 
 **Fast & Independent Learner**
 
-- At mPowr I had the opportunity to develop my skills as an independent learner, having to continuously rely on online resources and documentation to quickly learn new technologies and implement features as part of the existing tech stack. I had to thoroughly research the best coding practices and reflect on my own processes to ensure that I was improving as a programmer. Within the first 2 weeks of starting, I picked up React, Express, cPanel, PHP and MySQL and was able to present an application that demonstrated the foundations for future projects. 
+- At mPowr I had the opportunity to develop my skills as an independent learner, having to continuously rely on online resources and documentation to quickly learn new technologies and implement features as part of the existing tech stack. I had to thoroughly research the best coding practices and reflect on my own processes to ensure that I was improving as a programmer. Within the first 2 weeks of starting, I picked up React, Express, cPanel, PHP and MySQL and was able to present an application that laid the foundations for future projects. 
 - Able to pick up new languages/frameworks quickly alongside continuously integrating code as part of a team. For my final project, I learnt to use Swift to develop a functioning iOS application that was ready to present within 10 days.
 - In my spare time, I like to challenge myself to learn new skills in music such as playing the guitar and DJing.
 
